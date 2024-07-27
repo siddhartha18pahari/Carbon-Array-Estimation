@@ -1,4 +1,4 @@
-# Carbon-Array-Estimation
+# Carbon-Array-Estimation (note real tech data in patent stages and can't be made public yet)
 Approximate Bayesian Optimal Design of Experiments in R
 
 This package aids in Bayesian Optimal Experimental Design (BOED) utilizing the brms package as the base modeling framework.
